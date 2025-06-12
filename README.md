@@ -1,4 +1,4 @@
-<h1 align="center">Moi 👋, Olen Tuure</h1>
+<h1 align="center">Moi 👋, Olen Tuuuretinn</h1>
 <h3 align="center">Eli Tuuretin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuuretin&label=Profile%20views&color=0e75b6&style=flat" alt="tuuretin" /> </p>
