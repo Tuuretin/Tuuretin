@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuuretin" alt="tuuretin" /></a> </p>
 
-- 🔭 Työskentelen serverillä [MegaMaa](https://github.com/MegaMaa)
+- 🔭 Työskentelen serverillä [Vulpis](https://github.com/vulpis-fi)
 
 - 🌱 Opiskelen tällä hetkellä **Java & Lua**
 
